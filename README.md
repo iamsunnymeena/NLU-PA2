@@ -1,4 +1,4 @@
-# B23CM1008 Assignment 2
+# B23CM1041 Assignment 2
 
 This repository contains complete code and outputs for:
 1. Problem 1: Learning Word Embeddings from IIT Jodhpur data
@@ -38,11 +38,3 @@ bash scripts/run_all.sh
 - `outputs/plots/p1_wordcloud.png`
 - `outputs/plots/p1_pca_scratch_sgns.png`
 - `outputs/plots/p1_tsne_scratch_sgns.png`
-
-## Submission packaging
-
-Create folder `B23CM1008-A2` with only:
-- `report.pdf`
-- `corpus.txt`
-
-Then zip it as `B23CM1008-A2.zip`.
