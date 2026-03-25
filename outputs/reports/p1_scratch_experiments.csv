@@ -1,0 +1,5 @@
+model,mode,dim,window,negative,epochs,final_avg_loss,vocab_size
+scratch_cbow_d100_w3_n5,cbow,100,3,5,2,0.35319581627845764,6000
+scratch_cbow_d300_w5_n10,cbow,300,5,10,2,0.24999530613422394,6000
+scratch_sgns_d100_w3_n5,sgns,100,3,5,2,0.28868499398231506,6000
+scratch_sgns_d300_w5_n10,sgns,300,5,10,2,0.17669375240802765,6000

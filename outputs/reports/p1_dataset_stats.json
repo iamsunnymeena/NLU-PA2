@@ -1,0 +1,8 @@
+{
+  "documents": 50,
+  "tokens": 359648,
+  "vocab_size": 15085,
+  "raw_files_used": 50,
+  "corpus_file_mb": 2.5588,
+  "even_doc_count_check": true
+}

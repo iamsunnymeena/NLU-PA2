@@ -1,0 +1,5 @@
+model,mode,dim,window,negative,epochs,vocab_size
+gensim_cbow_d100_w3_n5,cbow,100,3,5,5,11150
+gensim_cbow_d300_w5_n10,cbow,300,5,10,5,11150
+gensim_sgns_d100_w3_n5,sgns,100,3,5,5,11150
+gensim_sgns_d300_w5_n10,sgns,300,5,10,5,11150
